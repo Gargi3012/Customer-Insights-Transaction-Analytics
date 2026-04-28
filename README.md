@@ -22,8 +22,9 @@ End-to-end data analytics project involving data cleaning, transformation, and v
 ## 📈 Dashboard
 
 An interactive Power BI dashboard designed to analyze customer behavior and transaction patterns, enabling better understanding of trends and performance metrics.
-<img width="1185" height="691" alt="Dashboard_ss2" src="https://github.com/user-attachments/assets/7238b495-421d-4780-b0e5-d95537b95918" />
-<img width="1184" height="716" alt="Dashboard_ss1" src="https://github.com/user-attachments/assets/48921027-17bf-46ab-bc8e-56200d472753" />
+<img width="1185" height="691" alt="Dashboard_ss2" src="https://github.com/user-attachments/assets/934689b7-0fe1-4c21-9c9b-a78359bb2b32" />
+<img width="1184" height="716" alt="Dashboard_ss1" src="https://github.com/user-attachments/assets/f34b3f8e-11b2-406f-b628-deb65aa2a14a" />
+
 
 
 ## 📌 Conclusion
